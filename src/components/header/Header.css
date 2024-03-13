@@ -1,0 +1,6 @@
+.header {
+  @apply bg-black/[.05] py-4;
+}
+.logo {
+  @apply inline-block text-black/[.8] font-semibold text-2xl capitalize;
+}

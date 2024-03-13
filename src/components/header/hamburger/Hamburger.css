@@ -1,0 +1,9 @@
+.hamburger {
+  @apply text-2xl cursor-pointer;
+}
+.hamburger-lists li a {
+  @apply text-lg text-black font-medium;
+}
+.header-image {
+  @apply h-[50px] w-[50px] rounded-[50%] object-cover mx-auto;
+}
