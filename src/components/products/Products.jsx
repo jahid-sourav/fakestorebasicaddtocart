@@ -16,7 +16,7 @@ export default function Products({ addToCart }) {
   return (
     <>
       {loader ? (
-        <div className="h-[100vh] flex items-center justify-center">
+        <div className="h-[60vh] flex items-center justify-center">
           <img src="spinnergif.gif" alt="Loader" />
         </div>
       ) : (
